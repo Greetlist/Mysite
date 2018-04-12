@@ -1,0 +1,18 @@
+.my-list-group-item {
+  position: relative;
+  display: block;
+  padding: 0.0rem 0.0rem;
+  margin-bottom: -1px;
+  background-color: #fff;
+  border: 0px solid rgba(0, 0, 0, 0.125);
+}
+
+.my-a-link {
+	text-decoration: none;
+	opacity: .5;
+}
+
+.my-a-link:hover {
+	text-decoration: none;
+	opacity: 1;
+}
